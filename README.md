@@ -1,29 +1,39 @@
 # 👋 Hi there, I'm Jan Hodánek!
 
-👨‍💻 **Software Development Student**  
-☕ **Backend-Focused Java Developer**  
-💼 **Currently Working at Unicorn on an ENTSOe Project**  
-🌱 **Learning Go for Backend Development**
+👨‍💻 **Backend-Focused Java Developer & Software Development Graduate**  
+🌱 **Currently Learning Go for Backend Development**  
+💼 **Actively Seeking Backend Opportunities**
 
 ---
 
 ## About Me
 
-I’m a software development student with a strong focus on **Java**. Currently, I work at **Unicorn**, where I am involved in a data processing project for **ENTSOE**. My role primarily includes implementing features for improved data processing and fixing bugs.
+I am a backend-focused Java developer with hands-on experience building **modular monolith systems** and robust backend architectures. My main expertise is in **Java (Spring Boot, Hibernate/JPA)**, designing clean and maintainable systems, and working with **event-driven architectures**.
 
-Although I have solid experience with **React** for frontend development, my main expertise is in backend work. I am also expanding my skill set by learning **Go** to enhance my backend development capabilities.
+I have worked on projects involving **booking systems, availability management, notifications, payments**, and **large-scale data processing**, applying clean code principles like **SOLID, DRY, and KISS**. While I have frontend experience with React, my focus and passion lie in **backend development**.
 
-### Tech Stack:
-- **Primary Language:** Java (Spring Boot, Hibernate)
-- **Backend:** Go (Learning), Node.js
-- **Frontend (experience but not primary):** React
-- **Tools & Platforms:** IntelliJ IDEA, Git, Docker
+I am expanding my skill set with **Go** to explore performant, concurrent backend systems and further improve my architecture and design capabilities.
 
 ---
 
-### Get in Touch:
-- [LinkedIn](https://www.linkedin.com/in/jan-hod%C3%A1nek-514988191/)
-- [Email](mailto:hodanekk@gmail.com)
+### Tech Stack
+- **Backend:** Java 17 (Spring Boot 3, Hibernate/JPA), Go (learning), Node.js  
+- **Frontend (experience):** React  
+- **Database / Data:** PostgreSQL, SQL  
+- **Dev Tools & Platforms:** IntelliJ IDEA, Git, Docker, Maven  
+
 ---
 
-Check out my repositories for upcoming Java projects and data processing work!
+### Key Projects
+- **Salonio** – Modular monolith for salon management, including bookings, availability, clients, staff, notifications, payments, and offerings. Focused on clean architecture, event-driven communication, and reusable modules.  
+- **ENTSOE Data Processing Project (Future)** – Backend work handling large energy datasets with performance optimization and robust data handling.
+
+---
+
+### Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/jan-hod%C3%A1nek-514988191/)  
+- [Email](mailto:hodanekk@gmail.com)  
+
+---
+
+Check out my repositories for **Java backend projects**, **modular systems**, and **data processing work**!
