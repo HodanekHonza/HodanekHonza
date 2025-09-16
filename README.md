@@ -29,7 +29,7 @@ I am currently expanding my skills with **Go**, focusing on performant, concurre
 
 ### Key Personal Projects
 - **Salonio** – Modular monolith for salon management, including bookings, availability, clients, staff, notifications, payments, and offerings. Focused on clean architecture, event-driven communication, and reusable modules.  
-- **ENTSOE Data Processing Project (Future)** – Backend work handling large energy datasets with performance optimization and robust data handling.
+- **Data Processing Project (Future)** – Backend work handling large energy datasets with performance optimization and robust data handling.
 
 ---
 
