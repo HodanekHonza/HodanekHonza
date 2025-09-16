@@ -8,11 +8,14 @@
 
 ## About Me
 
-I am a backend-focused Java developer with hands-on experience building **modular monolith systems** and robust backend architectures. My main expertise is in **Java (Spring Boot, Hibernate/JPA)**, designing clean and maintainable systems, and working with **event-driven architectures**.
+I am a backend-focused **Java developer** with hands-on experience in both production and personal projects.  
+My main expertise lies in **Java (Spring Boot, Hibernate/JPA)**, where I design clean, maintainable, and scalable systems following **SOLID, DRY, and KISS** principles.
 
-I have worked on projects involving **booking systems, availability management, notifications, payments**, and **large-scale data processing**, applying clean code principles like **SOLID, DRY, and KISS**. While I have frontend experience with React, my focus and passion lie in **backend development**.
+In my professional work, I contributed to the **New Transparency Project. Client: ENTSO-E**, migrating core functionality from **Java 8 to Java 17/21** and designing **data processing pipelines** (data transformation, validation, and integration).
 
-I am expanding my skill set with **Go** to explore performant, concurrent backend systems and further improve my architecture and design capabilities.
+Alongside this, I have built personal projects such as **Salonio**, a modular monolith system with booking, availability, notifications, payments, and staff management, showcasing **event-driven architecture** and modular reuse.
+
+I am currently expanding my skills with **Go**, focusing on performant, concurrent backend development.
 
 ---
 
@@ -24,7 +27,7 @@ I am expanding my skill set with **Go** to explore performant, concurrent backen
 
 ---
 
-### Key Projects
+### Key Personal Projects
 - **Salonio** – Modular monolith for salon management, including bookings, availability, clients, staff, notifications, payments, and offerings. Focused on clean architecture, event-driven communication, and reusable modules.  
 - **ENTSOE Data Processing Project (Future)** – Backend work handling large energy datasets with performance optimization and robust data handling.
 
