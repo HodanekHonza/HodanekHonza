@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Jan Hodánek!
+# Hi there, I'm Jan Hodánek!
 
-👨‍💻 **Backend-Focused Java Developer & Software Development Graduate**  
-🌱 **Currently Learning Go for Backend Development**  
-💼 **Actively Seeking Backend Opportunities**
+**Backend-Focused Java Developer & Software Development Graduate**  
+**Currently Learning Go for Backend Development**  
+**Actively Seeking Backend Opportunities**
 
 ---
 
